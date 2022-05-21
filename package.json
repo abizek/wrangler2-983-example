@@ -1,0 +1,14 @@
+{
+  "name": "wrangler2-983-example",
+  "version": "0.0.0",
+  "devDependencies": {
+    "wrangler": "2.0.6"
+  },
+  "scripts": {
+    "start": "wrangler dev",
+    "publish": "wrangler publish"
+  },
+  "dependencies": {
+    "mongodb": "^4.6.0"
+  }
+}
